@@ -320,4 +320,4 @@ fig.savefig("comparison.png", bbox_inches="tight")
 
 ## 📝 License
 
-MIT License
+[MIT License](LICENSE)
